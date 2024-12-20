@@ -3,7 +3,7 @@ Virus Prediction Using Machine Learning Code, Document And Video Tutorial
 
 ![virus](https://github.com/user-attachments/assets/8bf6f1da-ce84-4ade-91ee-16adf26fbe33)
 
-## Youtube limk: https://youtu.be/eUYSX3zV_-k?si=BTZFjmdFAf7lPnqi
+## Youtube link: https://youtu.be/eUYSX3zV_-k?si=BTZFjmdFAf7lPnqi
 
 ## Abstract:
 Viral infections pose a significant threat to global health, emphasizing the need for accurate and timely prediction. This study proposes a machine learning-based approach for virus prediction, leveraging clinical and biological features to forecast the likelihood of viral infections. Our model, trained on a comprehensive dataset, achieves high accuracy and demonstrates the potential for early detection and prevention. This innovative approach can support clinical decision-making, enhance public health surveillance, and inform personalized treatment strategies.
