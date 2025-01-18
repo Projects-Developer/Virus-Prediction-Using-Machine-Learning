@@ -1,4 +1,4 @@
-# Virus-Prediction-Using-Machine-Learning
+# Virus Prediction Using Machine Learning
 Virus Prediction Using Machine Learning Code, Document And Video Tutorial
 
 ![virus](https://github.com/user-attachments/assets/8bf6f1da-ce84-4ade-91ee-16adf26fbe33)
